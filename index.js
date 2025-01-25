@@ -114,4 +114,4 @@ client.on("ready", () => {
 });
 
 // Login to Discord
-client.login(process.env.DISCORD_TOKEN);
+client.login(process.env.MTMzMjY1ODMwNzE4OTcwMjY3Ng.GjvzMG.0_gPboQbdHCWGgCH3kC5YVLCj_Vd_cu7vHMm2k);
